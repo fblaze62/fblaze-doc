@@ -19,7 +19,7 @@ export default defineConfig({
   head: [
     [
       "link",
-      { rel: "icon", type: "image/svg+xml", href: "/fb-logo-mini.svg" },
+      { rel: "icon", type: "image/svg+xml", href: "https://gcore.jsdelivr.net/gh/fblaze62/fblaze-doc@main/docs/public/fb-logo-mini.svg" },
     ],
     ["link", { rel: "icon", type: "image/png", href: "/fb-logo-mini.png" }],
     ["meta", { property: "og:type", content: "website" }],
@@ -74,7 +74,7 @@ export default defineConfig({
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/fb-logo-mini.svg",
+    logo: "https://gcore.jsdelivr.net/gh/fblaze62/fblaze-doc@main/docs/public/fb-logo-mini.svg",
     darkModeSwitchLabel: "主题",
     sidebarMenuLabel: "菜单",
     returnToTopLabel: "返回顶部",

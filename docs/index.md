@@ -13,7 +13,7 @@ hero:
       text: 管理员指南
       link: /guide/op/plugin/AuthMe
   image:
-    src: /fblaze-logo-large.png
+    src: https://gcore.jsdelivr.net/gh/fblaze62/fblaze-doc@main/docs/public/fblaze-logo-large.png
     alt: Teek
 
 features:
