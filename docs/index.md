@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 玩家指南
-      link: /guide/player/join/download-modpack
+      link: /guide/player/download-modpack
     - theme: alt
       text: 管理员指南
       link: /guide/op/plugin/AuthMe
@@ -33,23 +33,23 @@ features:
 
 ## 欢迎！
 
-这是飞焰服务器的文档，由FeatherBlaze和天御千云共同维护，在这里你能找到关于飞焰服务器的一切。
+这是飞焰服务器的文档，由FeatherBlaze维护，在这里你能找到关于飞焰服务器的一切。
 
 飞焰服务器是一个**自由、开放**的*Minecraft1.21.1 NeoForge*服务器，由FeatherBlaze和天御千云创建，托管于[简幻欢](https://simpfun.cn/)。同时设有创造服和生存服，玩家可以自由选择玩法。
 
 ### 创立初衷
 
-创建该服务器主要目的是对标由Xzops创建的**要求严格、模组老旧、缺乏趣味、大量低质建筑**的水林服务器，其管理员Xzops用让人无法忍受的态度要求别人，且自身建筑水平不佳。该服务器旨在跳出Xzops的“统治”，创建一个能让玩家**和谐相处**的空间。
+创建该服务器主要目的是对标由■■■创建的**管理较差、要求严格、模组老旧、缺乏趣味**的■■服务器，其管理员■■■用严格的态度要求别人，且自身建筑水平一半。该服务器旨在跳出■■■的管理，创建一个能让玩家**和谐相处**的空间。
 
 ### 管理员团队
 
-**服务器管理** FeatherBlaze 玩家ID：FeaBlaze (正版)
+**服务器管理** FeatherBlaze <mark>正版</mark>FeaBlaze
 
-**建筑管理** 天御千云 玩家ID：TYQY (离线)
+**建筑管理** 天御千云 <mark>正版</mark>SKY_cloud_tyqy93
 
 ## 反馈交流
 
-在游玩过程中有任何建议和想法，请反馈到玩家交流QQ群。
+在游玩过程中有任何建议和想法，请反馈到QQ群“飞焰FBlaze·Players”（右上角图标）。
 
 <script setup lang="ts">
 import { onMounted } from "vue";
