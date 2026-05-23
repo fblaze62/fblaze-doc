@@ -8,11 +8,11 @@ export const teekConfig = defineTeekConfig({
   author: { name: "FeatherBlaze", link: "https://github.com/fblaze62" },
   footerInfo: {
     theme: {
-      name: `Theme By Teek@${version} | Powered By VitePress | Copyright © FeatherBlaze`,
+      name: `Theme By Teek@${version}`,
     },
     copyright: {
       createYear: 2026,
-      suffix: "Teek",
+      suffix: "FeatherBlaze",
     },
   },
   codeBlock: {
