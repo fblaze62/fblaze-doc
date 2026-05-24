@@ -122,10 +122,6 @@ export default defineConfig({
         icon: "github",
         link: "https://github.com/fblaze62/fblaze-doc",
       },
-      {
-        icon: "✉️",
-        link: "mailto:info@fblaze62.top"
-      },
     ],
     search: {
       provider: "local",

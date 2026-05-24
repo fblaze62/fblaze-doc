@@ -49,7 +49,7 @@ features:
 
 ## 反馈交流
 
-在游玩过程中有任何建议和想法，请反馈到QQ群“飞焰FBlaze·Players”（右上角图标）。
+在游玩过程中有任何建议和想法，请反馈到QQ群“飞焰FBlaze·Players”（右上角图标）。你也可以通过电子邮件[info@fblaze62.top](mailto:info@fblaze62.top)联系我们
 
 <script setup lang="ts">
 import { onMounted } from "vue";
