@@ -58,7 +58,7 @@ export default defineConfig({
     },
   },
   sitemap: {
-    hostname: "https://fbdoc.pages.dev", // ** 换成你的域名
+    hostname: "https://doc.fblaze62.top", // ** 换成你的域名
     transformItems: (items) => {
       const permalinkItemBak: typeof items = [];
       // 使用永久链接生成 sitemap
